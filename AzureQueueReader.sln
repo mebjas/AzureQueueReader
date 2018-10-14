@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureQueueReader", "AzureQueueReader\AzureQueueReader.csproj", "{EE3F5337-F227-4408-B69E-D1A68856F8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureQueueReaderPOC", "AzureQueueReaderPOC\AzureQueueReaderPOC.csproj", "{7DE22A9B-A8C3-4BA0-BA7F-1BD95DA7439D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3F5337-F227-4408-B69E-D1A68856F8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3F5337-F227-4408-B69E-D1A68856F8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3F5337-F227-4408-B69E-D1A68856F8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3F5337-F227-4408-B69E-D1A68856F8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE22A9B-A8C3-4BA0-BA7F-1BD95DA7439D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE22A9B-A8C3-4BA0-BA7F-1BD95DA7439D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE22A9B-A8C3-4BA0-BA7F-1BD95DA7439D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE22A9B-A8C3-4BA0-BA7F-1BD95DA7439D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBCA388-BC93-44CA-B786-1A152B2D21D1}
+	EndGlobalSection
+EndGlobal
